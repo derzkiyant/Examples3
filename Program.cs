@@ -65,9 +65,9 @@ void Task21()
     Console.WriteLine($"Расстояние CD = zB - zA = {CD}");
 
     double AC = Math.Sqrt(Math.Pow(AD, 2) + Math.Pow(CD, 2));
-    Console.WriteLine($"Расстояние AC = √ ((AD)^2 + (CD)^2) = {Math.Round(AC, 2)}");
+    Console.WriteLine($"Расстояние AC = √((AD)^2 + (CD)^2) = {Math.Round(AC, 2)}");
     double AB = Math.Sqrt(Math.Pow(AC, 2) + Math.Pow(BC, 2));
-    Console.WriteLine($"Искомое расстояние AB = √ ((AC)^2 + (BC)^2) = {Math.Round(AB, 2)}");
+    Console.WriteLine($"Искомое расстояние AB = √((AC)^2 + (BC)^2) = {Math.Round(AB, 2)}");
 }
 
 void Task23()

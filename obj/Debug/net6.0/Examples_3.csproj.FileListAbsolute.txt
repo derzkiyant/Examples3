@@ -1,0 +1,15 @@
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 3. Базовые алгоритмы. Продолжение\Examples_3\bin\Debug\net6.0\Examples_3.exe
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 3. Базовые алгоритмы. Продолжение\Examples_3\bin\Debug\net6.0\Examples_3.deps.json
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 3. Базовые алгоритмы. Продолжение\Examples_3\bin\Debug\net6.0\Examples_3.runtimeconfig.json
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 3. Базовые алгоритмы. Продолжение\Examples_3\bin\Debug\net6.0\Examples_3.dll
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 3. Базовые алгоритмы. Продолжение\Examples_3\bin\Debug\net6.0\Examples_3.pdb
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 3. Базовые алгоритмы. Продолжение\Examples_3\obj\Debug\net6.0\Examples_3.csproj.AssemblyReference.cache
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 3. Базовые алгоритмы. Продолжение\Examples_3\obj\Debug\net6.0\Examples_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 3. Базовые алгоритмы. Продолжение\Examples_3\obj\Debug\net6.0\Examples_3.AssemblyInfoInputs.cache
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 3. Базовые алгоритмы. Продолжение\Examples_3\obj\Debug\net6.0\Examples_3.AssemblyInfo.cs
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 3. Базовые алгоритмы. Продолжение\Examples_3\obj\Debug\net6.0\Examples_3.csproj.CoreCompileInputs.cache
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 3. Базовые алгоритмы. Продолжение\Examples_3\obj\Debug\net6.0\Examples_3.dll
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 3. Базовые алгоритмы. Продолжение\Examples_3\obj\Debug\net6.0\refint\Examples_3.dll
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 3. Базовые алгоритмы. Продолжение\Examples_3\obj\Debug\net6.0\Examples_3.pdb
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 3. Базовые алгоритмы. Продолжение\Examples_3\obj\Debug\net6.0\Examples_3.genruntimeconfig.cache
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 3. Базовые алгоритмы. Продолжение\Examples_3\obj\Debug\net6.0\ref\Examples_3.dll
